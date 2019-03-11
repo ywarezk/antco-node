@@ -1,0 +1,19 @@
+{
+  "name": "be-modular",
+  "version": "2.0.0",
+  "description": "example fo using modules",
+  "main": "be-modular.js",
+  "dependencies": {
+    "accepts": "^1.3.5",
+    "karma": "^4.0.1",
+    "lodash": "^4.17.11"
+  },
+  "devDependencies": {
+    "webpack": "^4.29.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
