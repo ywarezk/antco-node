@@ -21,6 +21,12 @@
             "request": "launch",
             "name": "Launch passport",
             "program": "${workspaceFolder}\\passport-example.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "JWT",
+            "program": "${workspaceFolder}\\jwt-authentication.js"
         }
     ]
 }

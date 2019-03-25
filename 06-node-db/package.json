@@ -1,0 +1,19 @@
+{
+  "name": "06-node-db",
+  "version": "1.0.0",
+  "description": "In this lesson we will start integrating database to our node application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^7.9.0",
+    "sequelize": "^5.1.1"
+  },
+  "devDependencies": {
+    "sequelize-cli": "^5.4.0"
+  }
+}
